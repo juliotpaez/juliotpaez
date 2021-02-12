@@ -76,7 +76,3 @@ Feel free to contact me by [📫 Email](julio.tpaez@gmail.com) or [tiwtter](http
   <a href="https://git-scm.com/" target="_blank"><img height="42px" src="https://img.icons8.com/color/2x/git.png" /></a>
   <a href="https://github.com/lexemlang" target="_blank"><img height="42px" src="https://avatars.githubusercontent.com/u/45815130?s=200&v=4" /></a>
 </p>
-
----
-
-<h2>Pinned projects</h2>
