@@ -12,7 +12,7 @@ My name is [Julio Treviño Páez](https://github.com/juliotpaez). I'm a spanish 
 - 🚀 A marketing app.
 - 🪨 A programming language called Si (from silicon).
 
-Feel free to contact me by [📫 Email](julio.tpaez@gmail.com) or [tiwtter](https://twitter.com/juliotpaez).
+Feel free to contact me by [📫 Email](julio.tpaez@gmail.com) or [Twitter](https://twitter.com/juliotpaez).
 
 ## Additional info
 
@@ -72,7 +72,7 @@ Feel free to contact me by [📫 Email](julio.tpaez@gmail.com) or [tiwtter](http
 
 <h3 align="center">Others</h3>
 <p align="center">
-  <a href="https://unity.com/" target="_blank"><img height="42px" src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png" /></a>
+  <a href="https://unity.com/" target="_blank"><img height="42px" src="https://logos-world.net/wp-content/uploads/2021/11/Unity-Emblem.png" /></a>
   <a href="https://git-scm.com/" target="_blank"><img height="42px" src="https://img.icons8.com/color/2x/git.png" /></a>
   <a href="https://github.com/lexemlang" target="_blank"><img height="42px" src="https://avatars.githubusercontent.com/u/45815130?s=200&v=4" /></a>
 </p>
