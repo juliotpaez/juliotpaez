@@ -70,6 +70,11 @@ Feel free to contact me by [📫 Email](julio.tpaez@gmail.com) or [Twitter](http
   <a href="https://www.microsoft.com/" target="_blank"><img height="42px" src="https://img.icons8.com/color/2x/windows-10.png" /></a>
 </p>
 
+<h3 align="center">Blockchains</h3>
+<p align="center">
+  <a href="https://solana.com" target="_blank"><img height="42px" src="https://solana.com/_next/static/media/dark-horizontal.c3a5eb36.svg" /></a>
+</p>
+
 <h3 align="center">Others</h3>
 <p align="center">
   <a href="https://unity.com/" target="_blank"><img height="42px" src="https://logos-world.net/wp-content/uploads/2021/11/Unity-Emblem.png" /></a>
