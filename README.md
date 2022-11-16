@@ -12,7 +12,7 @@ My name is [Julio Treviño Páez](https://github.com/juliotpaez). I'm a spanish 
 - 🚀 A marketing app.
 - 🪨 A programming language called Si (from silicon).
 
-Feel free to contact me by [📫 Email](julio.tpaez@gmail.com) or [Twitter](https://twitter.com/juliotpaez).
+Feel free to contact me by [📫 Email](julio@treviware.com) or [Twitter](https://twitter.com/juliotpaez).
 
 ## Additional info
 
