@@ -9,16 +9,15 @@
   
 My name is [Julio Treviño Páez](https://github.com/juliotpaez). I'm a spanish developer since I was 12yo. Since then I've faced all kind of programming challenges and I'm now developing my owns:
 
-- 🚀 A marketing app.
-- 🪨 A programming language called Si (from silicon).
+- 🚀 [The Suri Project](https://suri.domains): a project to reinvent internet technology using the blockchain as main tech.
+- 🪨 [Fankor](https://github.com/the-suri-project/fankor): a framework to develop Solana program with high requirements. 
 
 Feel free to contact me by [📫 Email](julio@treviware.com) or [Twitter](https://twitter.com/juliotpaez).
 
 ## Additional info
 
-- 🌱 I’m currently learning Go and React.
-- 👯 I’m looking to collaborate on every project that looks really intersesting.
-- 🤔 I’m looking for help with the language I'm designing.
+- 🌱 I’m currently learning Zero Knowledge Proofs.
+- 👯 I’m looking to collaborate to expand Suri to the masses.
 - ⚡ Fun fact: no mattern when or where, I'll be programming.
 
 <h2>Skills</h2>
@@ -72,7 +71,7 @@ Feel free to contact me by [📫 Email](julio@treviware.com) or [Twitter](https:
 
 <h3 align="center">Blockchains</h3>
 <p align="center">
-  <a href="https://solana.com" target="_blank"><img height="42px" src="https://solana.com/_next/static/media/dark-horizontal.c3a5eb36.svg" /></a>
+  <a href="https://solana.com" target="_blank"><img height="36px" src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-horizontal.e4df684f.svg&w=256&q=75" /></a>
 </p>
 
 <h3 align="center">Others</h3>
