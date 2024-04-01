@@ -33,6 +33,7 @@ Feel free to contact me by [📫 Email](julio@treviware.com) or [Twitter](https:
   <a href="https://vuejs.org/" target="_blank"><img height="42px" src="https://img.icons8.com/color/2x/vue-js.png" /></a>
   <a href="https://nuxtjs.org/" target="_blank"><img height="42px" src="https://d33wubrfki0l68.cloudfront.net/508ceaf143c9e6ff20f239f6b9d6a4ea44be0b2a/86b1f/logos/nuxt-emoji.png" /></a>
   <a href="https://angular.io/" target="_blank"><img height="42px" src="https://img.icons8.com/color/2x/angularjs.png" /></a>
+  <a href="https://react.dev/" target="_blank"><img height="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
   <a href="https://www.mongodb.com/" target="_blank"><img height="42px" src="https://img.icons8.com/color/2x/mongodb.png" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img height="42px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" /></a>
 </p>
@@ -51,7 +52,6 @@ Feel free to contact me by [📫 Email](julio@treviware.com) or [Twitter](https:
   <a href="https://aws.amazon.com/" target="_blank"><img height="42px" src="https://img.icons8.com/color/2x/amazon-web-services.png" /></a>
 </p>
 <p align="center">
-  <a href="https://www.kurento.org/" target="_blank"><img height="42px" src="https://www.kurento.org/sites/default/files/kurento.png" /></a>
   <a href="https://webrtc.org/" target="_blank"><img height="42px" src="https://pics.freeicons.io/uploads/icons/png/892028431552037069-512.png" /></a>
   <a href="https://docs.openvidu.io/" target="_blank"><img height="42px" src="https://docs.openvidu.io/en/2.16.0/img/logos/openvidu_vert_grey_bg_transp_cropped.png" /></a>
 </p>
@@ -71,7 +71,7 @@ Feel free to contact me by [📫 Email](julio@treviware.com) or [Twitter](https:
 
 <h3 align="center">Blockchains</h3>
 <p align="center">
-  <a href="https://solana.com" target="_blank"><img height="36px" src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-horizontal.e4df684f.svg&w=256&q=75" /></a>
+  <a href="https://solana.com" target="_blank"><img height="36px" src="https://solana.com/_next/static/media/logotype.e4df684f.svg" /></a>
 </p>
 
 <h3 align="center">Others</h3>
